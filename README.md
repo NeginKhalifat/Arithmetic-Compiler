@@ -15,9 +15,13 @@ $ .\calc.exe
 
 ### sample input/output
 * input:<br/>
+```
 12+763*876521
+```
 
 * expected output:  
-Assign SevHun_SixTen_Thr Mul (EigHun_SevTen_Six)Tou_FivHun_TwoTen_One to t1<br/>
-Assign OneTen_Two Plu t1 to t2<br/>
+```
+Assign SevHun_SixTen_Thr Mul (EigHun_SevTen_Six)Tou_FivHun_TwoTen_One to t1
+Assign OneTen_Two Plu t1 to t2
 Print t2
+```
