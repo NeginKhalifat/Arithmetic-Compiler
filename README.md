@@ -4,7 +4,7 @@ supports for maximum `6 digits integer`.
 
 
 ## To Run 
-after installing flex and bison following bellow commands:
+after installing flex and bison following below commands:
 
 ``` 
 $ flex .\lexical.l
